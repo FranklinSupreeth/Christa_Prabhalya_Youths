@@ -1,0 +1,6 @@
+{
+  "name": "Christha Prabhalaya Church Youths",
+  "description": "Faith • Fellowship • Purpose — Official portal for Christha Prabhalaya Church Youths featuring daily scriptures, youth activities, event registrations, prayer requests, and community fellowship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
