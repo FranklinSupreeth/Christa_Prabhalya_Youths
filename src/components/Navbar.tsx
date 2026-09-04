@@ -106,7 +106,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               <span className={`font-cinzel font-bold text-sm sm:text-base tracking-wide transition-colors ${
                 isScrolled ? 'text-stone-900 dark:text-amber-100' : 'text-white'
               }`}>
-                CHRISHTHA PRABHALAYA
+                CHRISTHA PRABHALAYA
               </span>
               <span className="text-[11px] font-semibold tracking-widest text-amber-600 dark:text-amber-400 uppercase -mt-0.5">
                 CHURCH YOUTHS
