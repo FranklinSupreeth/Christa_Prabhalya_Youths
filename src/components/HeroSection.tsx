@@ -92,7 +92,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onExploreVerse }) => {
             {/* Main Grand Title */}
             <div className="space-y-2">
               <h1 className="font-cinzel text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-white tracking-tight leading-[1.15]">
-                CHRISHTHA PRABHALAYA
+                CHRISTHA PRABHALAYA
                 <span className="block text-amber-400 gold-text-gradient font-black mt-1">
                   CHURCH YOUTHS
                 </span>
